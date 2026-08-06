@@ -1,0 +1,137 @@
+FDALAB/LKO/QSF/26/01
+GOVERNMENTPUBLICANALYSTLABORATORY.SEC-C.ALIGANJLUCKNOW
+Report No.-26000007241
+Part-B (parameter not covered under NABL)
+Sr.
+Target compound
+Caculated
+MRLValue
+No.
+Name ofmetbod
+of the test used
+concentration
+(mg/L)
+(mg/L)
+1.
+Copper(Cu)
+BLOQ
+30
+GAL/HEE//ICP-MS/SOP/01/LKO
+Issuc datc-15.11.2025,issuc no-01
+2.
+Arsenic(As)
+0.1
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+Issue date-15.11.2025,issucn0-01
+3.
+Cadmium (Cd)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+S'1
+Issuc date-15.11.2025,issueno01
+4.
+Tin (Sn)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+250
+Issue date-15.11.2025,issueno-01
+5.
+Mercury (Hg)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+1
+Issue date15.11.2025,issueno-01
+6.
+Lead (Pb)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+0.02
+Issue date-15.11.2025,issue no-01
+Sr.
+Pesticides/.
+Name of method
+MRLasper
+No.
+Residue
+Insecticides
+of the test used
+concentration
+FSSAI Standards
+(mg/kg)
+(mg/kg)
+1.
+Chlorothalonil
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.07
+2.
+Cypermethrin
+GAI/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.01
+3.
+Pirimiphos-methyl
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.05
+4.
+Metolachlor
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.01
+5.
+Chlorpyrifos
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+6.
+Fipronil
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+7.
+Ethion
+0.5
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+8.
+Bifenthrin
+0.2
+Fenpropathrin
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+9.
+0.1
+GAL/HIEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+10.
+Etofenprox
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.01
+11.
+Fenvalerate
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+12.
+Deltamethrin
+0.05
+Opinion: On the basis of tests performed, sample does not conforms to the standards of dahi under
+regulation 2.1.13 of Food Safety and Standards (Food Products and Food Additives) Regulations
+201l, as milk fat content is less than the minimum prescribed limit of 4.5% for dahi.Hence the
+sample is Substandard under section 3(1)(zx) of the Food Safety and Standards Act 2006.
+Sample destroyed after certification.
+Signed on:28.07.2026
+Address:Designated officer
+Food Analyst
+Food Safety and Drug Administration,U.P.
+Sciontific Officer-ll(Food)
+District:Lalitpur
+Food Analyst, U.P
+FSDA,Lucknow
+Page2of2
+End Report

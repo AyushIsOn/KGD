@@ -1,0 +1,139 @@
+FDA/LAB/LKO/QSF/26/01
+GOVERNMENTPUBLICANALYST LABORATORY.SEC-C,ALIGANJLUCKNO
+Report No.-26000007238
+Part-B (parameter not covered under NABL)
+Sr.
+Target compound
+Name of method
+Caculated
+MRL Value
+No.
+of the test used
+concentration
+(mg/L)
+(mg/L)
+1.
+Copper (Cu)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ.
+30
+2.
+Arsenic (As)
+Issuc date-15.11.2025,issue no-01
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+0.1
+Issue date-15.11.2025,issue no-01
+3.
+Cadmium (Cd)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+Issuc date-15.11.2025,issueno01
+1.5
+4.
+Tin (Sn)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+250
+Issue date-15.11.2025,issue no-01
+5.
+Mercury (Hg)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+Issue date-15.11.025,issue no01
+1
+6.
+Lead (Pb)
+GAL/HEE/ICP-MS/SOP/01/LKO
+BLOQ
+0.02
+Issue date-15.11.2025,issue no-01
+Sr.
+Pesticides/
+No.
+Insecticides
+Name of method
+Residue
+MRL as per
+of the test used
+concentration
+FSSAI Standards
+(mg/kg)
+(mg/kg)
+1.
+Chlorothalonil
+GAL/HFE/GCMS/SOP/04/LKO
+BLOQ
+2.
+Cypermethrin
+0.07
+GAL/HEE/GCMS/SOP/04/L.KO
+BLOQ
+3.
+Pirimiphos-methyl
+0.01
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+4.
+Metolachlor
+0.05
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.01
+5.
+Chlorpyrifos
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+6.
+Fipronil
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+7.
+Ethion
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.5
+8.
+Bifenthrin
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.2
+9.
+Fenpropathrin
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.1
+10.
+Etofenprox
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.02
+11.
+Fenvalerate
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.01
+12.
+Deltamethrin
+GAL/HEE/GCMS/SOP/04/LKO
+BLOQ
+0.05
+Opinion:On the basis of tests performed, sample does not conforms to the standards of dahi under
+regulation 2.1.13 of Food Safety and Standards (Food Products and Food Additives)Regulations
+2011, as milk fat content is less than the minimum prescribed limit of 4.5% for dahi. Hence the
+sample is Substandard under section 3(1)(zx) of theFood Safety and Standards Act 2006.
+Sample destroyed after certification.
+Signed on:28.07.2026
+Food Analyst
+Address:Designated officer
+Food Safety and Drug Administration,U.P.
+Uttar,Pradesh,Lucknow
+(Manju Pandey)
+District:Lalitpur
+Sciontific Officer-ll (Food)
+Food Analyst, ULP
+FSDA,Lucknow
+Page 2 of 2
+End Report

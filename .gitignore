@@ -1,0 +1,6 @@
+# Rasterised page renders (~37 MB) are derived artefacts.
+# Regenerate with: python3 ocr_output/run_ocr.py
+ocr_pages/
+
+__pycache__/
+*.pyc
