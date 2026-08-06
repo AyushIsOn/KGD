@@ -1,12 +1,20 @@
 # KGD
 
-OCR and analysis of `Document 2.pdf` — a 12-page scanned PDF containing eight statutory
-**Form VIIA "Report of the Food Analyst"** certificates issued by the Government Public
-Analyst Laboratory, Aliganj, Lucknow (FSDA, Uttar Pradesh) for samples lifted in District
-Lalitpur in July 2026, plus a Hindi covering summary.
+OCR and analysis of the food-safety records in this repository.
 
-The PDF has no text layer, so the contents were recovered by optical character
-recognition.
+`Document 2.pdf` holds eight statutory **Form VIIA "Report of the Food Analyst"**
+certificates from the Government Public Analyst Laboratory, Aliganj, Lucknow (FSDA, Uttar
+Pradesh), plus a Hindi covering summary. The accompanying PDFs — an **FIR**, three
+**sampling notices**, a **contractor's letter** and an **FSSAI licence** — establish what
+the reports belong to.
+
+**The case:** on **16 July 2026**, around **49 of ~700 children** at Atal Awasiya
+Vidyalaya, Dhaurra (District Lalitpur) were hospitalised with vomiting and abdominal pain.
+**FIR 0158/2026** was registered at PS Jakhlaun the next day under **BNS 125, 271, 274 and
+275**. These eight samples are the laboratory evidence.
+
+Only the licence has a text layer; everything else is a scan, so the contents were
+recovered by optical character recognition.
 
 ## Result: 5 of 8 samples substandard
 
@@ -25,6 +33,8 @@ recognition.
 
 | Path | What it is |
 |---|---|
+| [`ocr_output/case_context.md`](ocr_output/case_context.md) | **The underlying case** — outbreak, FIR 0158/2026, parties, timeline |
+| [`ocr_output/reused_oil_review.md`](ocr_output/reused_oil_review.md) | **Close review of the kadhai-oil report** and its four defects |
 | [`ocr_output/analysis.md`](ocr_output/analysis.md) | Document analysis, findings, and points needing a second look |
 | [`ocr_output/full_text.md`](ocr_output/full_text.md) | Page-by-page reconstructed transcription |
 | [`ocr_output/results_summary.csv`](ocr_output/results_summary.csv) | Machine-readable sample → verdict table |

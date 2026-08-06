@@ -116,19 +116,24 @@ sample was in a condition fit for analysis and has been analysed on **18/07/2026
 
 | Sr. | Quality Characteristics | Method | Result | Prescribed standard |
 |---|---|---|---|---|
-| 1 | Butyrorefractometer Reading at 40 °C | FSSAI Manual 2021, FSSAI 02.003.2021 | 63.2 | *(blank)* |
-| 2 | Refractive Index at 40 °C | FSSAI Manual 2021, FSSAI 02.003.2021 | 1.46798 | *(blank)* |
-| 3 | Saponification value | FSSAI Manual 2021, FSSAI 02.007.2021 | 212.2 | *(blank)* |
-| 4 | Iodine value | FSSAI Manual 2021, FSSAI 02.010.2021 | 122.21 | *(blank)* |
-| 5 | Acid value | FSSAI Manual 2021, FSSAI 02.009.2021 | 0.68 | *(blank)* |
-| 6 | Test for Synthetic colour | FSSAI Manual 2021, FSSAI 02.046.2021 | Negative | *(blank)* |
-| 7 | Unsaponifiable Matter | FSSAI Manual 2021, FSSAI 02.008.2021 | 1.74% | *(blank)* |
-| 8 | Test for Mineral oil | FSSAI Manual 2021, FSSAI 02.029.2021 | [?] | *(blank)* |
-| — | Test for Rancidity | FSSAI Manual 2021, FSSAI 02.042.2021 | Negative | *(blank)* |
-| 9 | Peroxide Value | FSSAI 02.040.2021 | 5.18 Meq/kg | *(blank)* |
-| 10 | Test for Vitamin A | FSSAI 02.013.2021 | [?] | *(blank)* |
-| 11 | Test for Presence of Sesame Oil | FSSAI 02.001:2021 | Negative | *(blank)* |
-| 12 | Moisture | — | 0.58% | *(blank)* |
+| 1 | Butyrorefractometer Reading at 40 °C | FSSAI Manual 2021, FSSAI 02.003.2021 | 63.2 | – |
+| 2 | Refractive Index at 40 °C | FSSAI Manual 2021, FSSAI 02.003.2021 | 1.46798 | – |
+| 3 | Saponification value | FSSAI Manual 2021, FSSAI 02.007.2021 | 212.2 | – |
+| 4 | Iodine value | FSSAI Manual 2021, FSSAI 02.010.2021 | 122.21 | – |
+| 5 | Acid value | FSSAI Manual 2021, FSSAI 02.009.2021 | 0.68 | – |
+| 6 | Test for Synthetic colour | FSSAI Manual 2021, FSSAI 02.046.2021 | Negative | – |
+| 7 | Unsaponifiable Matter | FSSAI Manual 2021, FSSAI 02.008.2021 | 1.74% | – |
+| 8 | Test for Mineral oil | FSSAI Manual 2021, FSSAI 02.029.2021 | **–** (no result reported) | – |
+| 9 | Test for Rancidity / Peroxide Value | FSSAI Manual 2021, FSSAI 02.042.2021 | Negative / 5.18 Meq/kg | – |
+| 10 | Test for Vitamin A | FSSAI 02.040.2021 | **–** (no result reported) | – |
+| 11 | Test for Presence of Sesame Oil | FSSAI 02.013.2021 | Negative | – |
+| 12 | Moisture | FSSAI 02.001:2021 | 0.58% | – |
+
+Every cell in the "Prescribed Standards" column contains a **dash**, verified by pixel
+inspection and visually — the laboratory affirmatively recorded that no standard applies.
+Rows 8 and 10 cite a method but report **no result**. Note also that rows 8/9 of this
+report combine "Test for Rancidity" and "Peroxide Value" in a single numbered row, so the
+printed numbering runs 1-12 with rancidity and peroxide sharing row 9.
 
 > **Opinion:** On the basis of tests performed, **analytical data are as above.**
 

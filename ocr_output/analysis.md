@@ -1,5 +1,12 @@
 # Document 2.pdf — Document Analysis
 
+> **Important context added after this file was first written.** The other PDFs in this
+> repository show these eight reports are **not routine surveillance**. They are laboratory
+> evidence from a **mass food-poisoning incident** in which ~49 children at a residential
+> school in Lalitpur were hospitalised on 16 July 2026, with **FIR 0158/2026** registered
+> the next day under BNS 125/271/274/275. See [`case_context.md`](case_context.md), and
+> [`reused_oil_review.md`](reused_oil_review.md) for the kadhai-oil report.
+
 ## What the file is
 
 A 12-page scanned PDF containing **eight statutory food-analysis certificates** plus a
@@ -80,12 +87,16 @@ Regulations 2011.
 The elevated acid value together with the elevated saponification value is the classic
 signature of a **hydrolysed / poorly refined or degraded oil**.
 
-### Reused kadhai oil — page 2, no standard column populated
-This report is filed against "Regulation No. **\*\*\***" — i.e. no specific product
-standard was cited, because reused frying oil has no compositional standard of its own.
-The lab therefore printed results without pass/fail comparison and the Opinion reads only
-*"analytical data are as above."* The measured values are nevertheless well outside
-refined soyabean oil norms:
+### Reused kadhai oil — page 2, no standard applied
+This report is filed against "Regulation No. **\*\*\***", and every row of the "Prescribed
+Standards" column contains an explicit **dash** — the laboratory affirmatively recorded
+that no standard applies to any parameter it measured. Two result cells, **Test for
+Mineral oil** and **Test for Vitamin A**, are also dashed: method cited, no result
+reported. The Opinion reads only *"analytical data are as above."*
+
+This is the sample taken **from the frying vessel** on the day of the incident, and it is
+reviewed in detail in [`reused_oil_review.md`](reused_oil_review.md). The measured values
+are well outside refined soyabean oil norms:
 
 | Parameter | Result | Refined soyabean oil norm (for reference) |
 |---|---|---|
