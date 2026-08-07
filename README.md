@@ -36,6 +36,7 @@ recovered by optical character recognition.
 | [`ocr_output/case_context.md`](ocr_output/case_context.md) | **The underlying case** — outbreak, FIR 0158/2026, parties, timeline |
 | [`ocr_output/defects_register.md`](ocr_output/defects_register.md) | **Every defect found across all eight reports**, graded by severity |
 | [`ocr_output/supplier_position_notes.md`](ocr_output/supplier_position_notes.md) | Goods-supplier preparation pack (traceability, scope, sequence) |
+| [`ocr_output/water_evidence_notes.md`](ocr_output/water_evidence_notes.md) | U.P. Jal Nigam water report C 720 — what it proves, and a sampling protocol |
 | [`ocr_output/reused_oil_review.md`](ocr_output/reused_oil_review.md) | **Close review of the kadhai-oil report** and its four defects |
 | [`ocr_output/analysis.md`](ocr_output/analysis.md) | Document analysis, findings, and points needing a second look |
 | [`ocr_output/full_text.md`](ocr_output/full_text.md) | Page-by-page reconstructed transcription |
