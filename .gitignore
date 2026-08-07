@@ -1,0 +1,10 @@
+# Rasterised page renders are derived artefacts.
+# Regenerate with: python3 ocr_output/run_ocr.py
+ocr_pages/
+ref_pages/
+
+# Ad-hoc verification crops
+crops/
+
+__pycache__/
+*.pyc

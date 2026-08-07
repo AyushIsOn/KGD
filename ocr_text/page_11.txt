@@ -1,0 +1,96 @@
+ReportNo:TC-1377926000007237F
+Part:B(Parameters not covered in NABL Scope)
+Prescribed standardsas per
+(a)Asper provisions ofAct,
+Name of method of the test used
+Results
+and therules and Regulations
+made these under.
+S.
+Quality characterlstics
+(b)As per label declaration
+N
+for proprietaryfood.
+I!N
+Absent
+FSDA/LKO/Cercnls/SOP/04/2025-26
+Absent
+1
+Rodcnt hair and excreta
+Absent
+Living/dead insccts
+FSDA/LKO/Cereals/SOP/03/2025-26
+2
+starches
+Microscopy
+FSSAIManual 03:024:2023
+Gram
+3
+are seen along
+withwheat&pea
+starches.
+MRLasperFSSAI
+Residue
+Conc.
+S.
+Standards(mg/kg)
+Pesticides/Insecticides
+Name of test method
+(mg/kg)
+N.
+BLOQ
+0.01
+1
+Atrazine
+GAL/HEE/LCMS/SOP/03/LKO
+Calculated
+MRLValue
+S.
+Heavy Metal
+Name of method of the test
+Concentration
+(mg/kg)
+N
+used
+(mg/kg)
+2.5
+1
+Lead
+AOAC2015.01
+BLOQ
+BLOQ
+30
+2
+Copper
+AOAC2015.01
+BLOQ
+1.1
+3
+Arsenic
+AOAC2015.01
+BLOQ
+250
+4
+Tin
+AOAC2015.01
+AOAC2015.01
+BLOQ
+1.5
+5
+Cadmium
+AOAC2015.01
+BLOQ
+6
+Mercury
+Opinion-On the basis of tests performed,sample is an admixture ofwheat andPea starches.Hence
+the sample is substandard
+Sumiedyedaercfctin
+Signed on 29.07.2026
+FoodX
+lyst
+Govt.PublicAnalyst Laboratory
+'MouxapeAsqeuptan: :
+Lucknow, Uttar Pradesh
+.*Food Analyst
+Uttar Pradesh,Lucknow
+***End of the Report***

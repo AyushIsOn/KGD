@@ -1,0 +1,161 @@
+FDA/LAB/
+Form-VIIA
+Report of the Food analyst
+[See rule 2.4.2(5)&2.4.4(6)]
+Report No:TC-1377926000007237F
+1-U
+Lalitpur on 18.07.2026 for analysis.
+unbroken.
+on18.07.2026 to 29.07.2026 and the result of its analysis is given below:
+Reasons:
+Analysis report:-
+(i) Sample Description-Besan
+attachedwithform-6.
+Part-A(Parameters covered underNABLScope)
+Results relate only to the sample asreceived.
+Results,
+Prescribed standardsas per
+Quality characteristics
+Nameof method of the testused
+(a)As per provisions ofAct,and
+S.
+the rules and Regulations made
+N.
+these under.
+(b)As per label declaration for
+proprietary food.
+FSSAIManual03:006:2023
+9.50%
+Not>12.0%
+Moisture
+1
+0.15%
+Not>0.3%
+Ash insoluble in dilute HCL
+FSSAIManual03:012:2023
+2
+Not>0.18%
+FSSAIManual03:015:2023
+0.09%
+Alcoholic acidity (with 90%
+3
+alcohol)expressed asHSO4
+FSSAIManual03:021:2023
+Negative
+Negative
+Test for Khesari Dal powder
+4
+(BOAA)
+FSSAIManual03:032:2023
+Negative
+Negative
+TestforSyntheticcolour
+5
+MRLas per FSSAI
+Name of test method
+Residue
+Pesticides/Insecticides
+Conc.(mg/kg)
+Standards(mg/kg)
+S.
+N.
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+Trifluralin
+1
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+Triallate
+100
+2
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+Parathion-methyl
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+1.0
+3
+4
+Pirimiphos-methyl
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+5
+Chlorpyrifos-cthyl
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+10'0
+6
+Pendimethalin
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+0.01
+7
+Fipronil
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+Quinalphos
+8
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+100
+9
+Ethion
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+10
+Edifenphos
+0.01
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+Iprodione
+BLOQ
+10'0
+GAL/HEE/GCMS/SOP/03/LKO
+12
+Bifenthrin
+BLOQ
+0.01
+GAL/HEE/GCMS/SOP/03/LKO
+13
+Fenpropathrin
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+0.01
+Cyhalothrin I (lambda)
+14
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+10:0
+Cyfluthrin
+10'0
+15
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+16
+Cypermethrin(sum of isomers)
+10:0
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+17
+Etofenprox
+BLOQ
+100
+GAL/HEE/GCMS/SOP/03/LKO
+18
+Fenvalcrate
+BLOQ
+0.2
+GAL/HEE/GCMS/SOP/03/LKO
+19
+Deltamethrin
+GAL/HEE/GCMS/SOP/03/LKO
+BLOQ
+10'0
+Metalaxyl
+20
+*BLOQ-BelowLimit ofQuantification
